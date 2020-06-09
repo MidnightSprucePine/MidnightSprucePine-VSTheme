@@ -2,7 +2,7 @@
 
 # MidnightSprucePine-VSTheme
 Midnight Spruce Pine - Visual Studio 2019 Theme <br />
-<a href="https://marketplace.visualstudio.com/items?itemName=jasonhartsoe.midnightsprucepine100" target="_blank">Download and Install From Visual Studio Marketplace</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=jasonhartsoe.midnightsprucepine100" target="_blank">Download and Install From Visual Studio Marketplace</a>  (Control + Click For New Window)
 <br/>
 <br/>
 
