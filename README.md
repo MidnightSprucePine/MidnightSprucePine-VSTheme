@@ -1,6 +1,5 @@
 ![Logo](/Img/icon.png)
 
-
 # MidnightSprucePine-VSTheme
 Midnight Spruce Pine - Visual Studio 2019 Theme
 <br/>
