@@ -21,27 +21,46 @@ Current Version 1.2
 
 **C#**
 ![C#](/Img/csharp.png)
+![C#](/Img/csharp2.png)
+
+<br/>
+<br/>
+
+**VIEWMODEL**
+![C#](/Img/viewmodel.png)
+![C#](/Img/viewmodel2.png)
 
 <br/>
 <br/>
 
 **Javascript**
-![C#](/Img/js.png)
+![C#](/Img/javascript.png)
+![C#](/Img/javascript2.png)
 
 <br/>
 <br/>
 
 **JSON**
 ![C#](/Img/json.png)
+![C#](/Img/json2.png)
 
 <br/>
 <br/>
 
 **HTML**
 ![C#](/Img/html.png)
+![C#](/Img/html2.png)
 
 <br/>
 <br/>
 
 **CSS**
 ![C#](/Img/css.png)
+![C#](/Img/css2.png)
+
+<br/>
+<br/>
+
+**MARKDOWN**
+![C#](/Img/markdown.png)
+![C#](/Img/markdown2.png)
