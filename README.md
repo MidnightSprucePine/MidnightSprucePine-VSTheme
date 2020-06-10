@@ -13,90 +13,90 @@ Current Version 1.2
 <br />
 <br />
 
-**Start / Welcome Screen**
+**Start / Welcome Screen**<br/>
 ![C#](/Img/welcome.png)
 
 <br/>
 <br/>
 
-**C#**
+**C#**<br/>
 ![C#](/Img/csharp.png)
 
 <br/>
 <br/>
 
-**VIEWMODEL**
+**VIEWMODEL**<br/>
 ![C#](/Img/viewmodel.png)
 
 <br/>
 <br/>
 
-**Javascript**
+**JAVASCRIPT**<br/>
 ![C#](/Img/javascript.png)
 
 <br/>
 <br/>
 
-**JSON**
+**JSON**<br/>
 ![C#](/Img/json.png)
 
 <br/>
 <br/>
 
-**HTML**
+**HTML**<br/>
 ![C#](/Img/html.png)
 
 <br/>
 <br/>
 
-**CSS**
+**CSS**<br/>
 ![C#](/Img/css.png)
 
 <br/>
 <br/>
 
-**MARKDOWN**
+**MARKDOWN**<br/>
 ![C#](/Img/markdown.png)
 
-
+---
 <br/>
 <br/>
 
-**C#**
+**C#**<br/>
 ![C#](/Img/csharp2.png)
 
 <br/>
 <br/>
 
-**VIEWMODEL**
+**VIEWMODEL**<br/>
 ![C#](/Img/viewmodel2.png)
 
 <br/>
 <br/>
 
-**Javascript**
+**JAVASCRIPT**<br/>
 ![C#](/Img/javascript2.png)
 
 <br/>
 <br/>
 
-**JSON**
+**JSON**<br/>
 ![C#](/Img/json2.png)
 
 <br/>
 <br/>
 
-**HTML**
+**HTML**<br/>
 ![C#](/Img/html2.png)
 
 <br/>
 <br/>
 
-**CSS**
+**CSS**<br/>
 ![C#](/Img/css2.png)
 
 <br/>
 <br/>
 
-**MARKDOWN**
+**MARKDOWN**<br/>
 ![C#](/Img/markdown2.png)
