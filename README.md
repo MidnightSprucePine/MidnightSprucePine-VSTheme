@@ -7,6 +7,11 @@ Midnight Spruce Pine - Visual Studio 2019 Theme <br />
 For optimal look and feel, download and install the [Dank Mono](https://dank.sh/) font.  You can also download and install [Fira Code](https://github.com/tonsky/FiraCode) for free as an alternative font.<br />
 <br/>
 <br/>
+Current Version 1.2
+- Updated Color Scheme.  Removed Hot Pink and replaced with Blue
+- Fixed White Out Issue when using Ctl+Q
+<br />
+<br />
 
 **Start / Welcome Screen**
 ![C#](/Img/welcome.png)
