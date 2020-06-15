@@ -4,6 +4,8 @@
 Midnight Spruce Pine - Visual Studio 2019 Theme <br />
 <a href="https://marketplace.visualstudio.com/items?itemName=jasonhartsoe.midnightsprucepine100" target="_blank">Download and Install From Visual Studio Marketplace</a>  (**Control + Click** For New Window)<br />
 <br />
+**Midnight Spruce Pine** is an awesome dark color theme for Visual Studio 2019.  It was inspired by Timothy Macharia's Pine Gap Dark theme which was also inspired by the VS Code theme Ayu Mirage by Ayu Theme.  This theme's two background/IDE colors were inspired for look and feel while everything else is 100% custom.<br />
+<br />
 For optimal look and feel, download and install the [Dank Mono](https://dank.sh/) font.  You can also download and install [Fira Code](https://github.com/tonsky/FiraCode) for free as an alternative font.<br />
 <br/>
 After installing this extension, the theme will be available in the dropdown menu under **Tools -> Options -> General -> Midnight Spruce Pine**.  You can also use the Theme Editor to select this theme.<br />
