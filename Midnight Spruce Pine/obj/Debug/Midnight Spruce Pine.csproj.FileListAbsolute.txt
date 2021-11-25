@@ -1,0 +1,13 @@
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\bin\Debug\preview.png
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\bin\Debug\Midnight Spruce Pine.dll
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\bin\Debug\Midnight Spruce Pine.pdb
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\bin\Debug\Midnight Spruce Pine.vsix
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\bin\Debug\extension.vsixmanifest
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\_EmptyResource.resources
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\Midnight Spruce Pine.csproj.GenerateResource.cache
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\Midnight Spruce Pine.csproj.CoreCompileInputs.cache
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\Midnight Spruce Pine.dll
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\Midnight Spruce Pine.pdb
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\extension.vsixmanifest
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\files.json
+C:\Users\Layla\source\repos\Themes\MidnightSprucePine-VSTheme\Midnight Spruce Pine\obj\Debug\createTemplateManifests.cache

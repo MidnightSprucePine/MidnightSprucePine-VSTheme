@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Layla\\source\\repos\\Themes\\MidnightSprucePine-VSTheme\\Midnight Spruce Pine\\Midnight Spruce Pine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Layla\\source\\repos\\Themes\\MidnightSprucePine-VSTheme\\Midnight Spruce Pine\\Midnight Spruce Pine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Layla\\source\\repos\\Themes\\MidnightSprucePine-VSTheme\\Midnight Spruce Pine\\Midnight Spruce Pine.csproj",
+        "projectName": "Midnight Spruce Pine",
+        "projectPath": "C:\\Users\\Layla\\source\\repos\\Themes\\MidnightSprucePine-VSTheme\\Midnight Spruce Pine\\Midnight Spruce Pine.csproj",
+        "packagesPath": "C:\\Users\\Layla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Layla\\source\\repos\\Themes\\MidnightSprucePine-VSTheme\\Midnight Spruce Pine\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Layla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[17.0.5232, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.31902.203, )"
+            },
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31902.203, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
